@@ -163,9 +163,7 @@ def show_statistics():
     print("Topper Marks   :", highest["marks"])
 
 
-# Main Program
-
-# Main Program
+# Main Program
 
 while True:
     print("\n===================================")
